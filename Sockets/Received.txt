@@ -1,0 +1,4 @@
+Hello Client
+This is localhost 60000
+Welcome to socket programming in python
+Thank you for connecting
